@@ -1,0 +1,65 @@
+D:\81C#\元旦\MvcMovie\Contoso University\bin\ApplicationInsights.config
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\csc.exe
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\System.Collections.Immutable.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\System.Reflection.Metadata.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\vbc.exe
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\VBCSCompiler.exe
+D:\81C#\元旦\MvcMovie\Contoso University\bin\roslyn\VBCSCompiler.exe.config
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Contoso University.dll.config
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Contoso University.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Contoso University.pdb
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Antlr3.Runtime.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.AI.Agent.Intercept.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.AI.DependencyCollector.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.AI.Web.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.AI.WindowsServer.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.ApplicationInsights.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.Web.Infrastructure.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Newtonsoft.Json.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.Helpers.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.Mvc.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.Optimization.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.Razor.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.WebPages.Deployment.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.WebPages.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.WebPages.Razor.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\WebGrease.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.AI.DependencyCollector.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.AI.Web.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.AI.WindowsServer.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.ApplicationInsights.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.Helpers.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.Mvc.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.Optimization.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.Razor.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.WebPages.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.WebPages.Deployment.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\System.Web.WebPages.Razor.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Antlr3.Runtime.pdb
+D:\81C#\元旦\MvcMovie\Contoso University\bin\Newtonsoft.Json.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\81C#\元旦\MvcMovie\Contoso University\obj\Debug\Contoso University.dll
+D:\81C#\元旦\MvcMovie\Contoso University\obj\Debug\Contoso University.pdb
+D:\81C#\元旦\MvcMovie\Contoso University\bin\EntityFramework.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\EntityFramework.SqlServer.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\EntityFramework.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\EntityFramework.SqlServer.xml
+D:\81C#\元旦\MvcMovie\Contoso University\bin\zh-Hans\EntityFramework.resources.dll
+D:\81C#\元旦\MvcMovie\Contoso University\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
